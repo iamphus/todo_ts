@@ -199,7 +199,7 @@ ul li input[type="checkbox"]:checked ~ label {
 .todo-list li.editing .view {
   display: none;
 }
-/*footer in section*/
+
 .footer-section {
   padding: 25px 10px;
   text-align: center;
